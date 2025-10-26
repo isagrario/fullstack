@@ -1,0 +1,32 @@
+sequenceDiagram
+
+ participant browser
+ participant server
+
+ browser->>server: POST https://studies.cs.helsinki.fi/exampleapp/new_note  note=otra+nota
+ server-->>browser:  HTML document : Status code 302 Found 
+
+ browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/notes
+ activate server
+ server-->>browser: HTML document
+ deactivate server
+
+ browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/main.css
+ activate server
+ server-->>browser: the css file
+ deactivate server
+
+ browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/main.js
+ activate server
+ server-->>browser: the JavaScript file
+ deactivate server
+
+ browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/data.json
+ activate server
+ server-->>browser: [{"content":"Kosova","date":"2025-10-25T12:37:16.958Z"},{"content":"Kosova","date":"2025-10-25T12:37:32.608Z"},...]
+ deactivate server
+
+ browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/main.js
+ activate server
+ server-->>browser: the JavaScript file
+ deactivate server
