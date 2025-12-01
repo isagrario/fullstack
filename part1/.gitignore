@@ -31,3 +31,4 @@ dist-ssr
 /index.html
 /README.md
 /vite.config.js
+/components/*
