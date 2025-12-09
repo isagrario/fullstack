@@ -1,4 +1,16 @@
-const Person = ({ persons }) => {
+const Person = ({ persons, personfilter }) => {
+  
+  if (personfilter && personfilter.length > 0){
+    return(
+      <ul>
+      {personfilter.map(person => 
+
+            <li key={person.id} >{person.name} -- {person.number}</li>
+          )}
+      </ul>
+    ) 
+  }
+  else {
   return(
     <ul>
     {persons.map(person => 
@@ -7,6 +19,7 @@ const Person = ({ persons }) => {
         )}
     </ul>
   ) 
+  }
 }
 
 export default Person

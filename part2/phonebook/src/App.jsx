@@ -9,6 +9,7 @@ const App = (props) => {
   const [newName, setNewName] = useState('')
   const [newNumber, setNewNumber] = useState('')
   const [newfilter, setNewFilter] = useState('')
+  const [newPersonsFilter, setPersonsFilter] = useState('')
 
   const addName = (event) => {
     //evita el modo por defecto
@@ -46,11 +47,11 @@ const App = (props) => {
   }
 
   const handleFilterChange = (event) => {    
-     console.log(event.target.value) 
+     //console.log(event.target.value) 
     //actualizar el estado del flitro 
     setNewFilter(event.target.value)
-    //aplicar el filtro a la lista de persons
-    setPersons(filterItems(event.target.value)) 
+    //aplicar el filtro a la una nueva lista de persons
+    setPersonsFilter(filterItems(event.target.value)) 
   }
 
   const filterItems = (query) => {
@@ -60,8 +61,9 @@ const App = (props) => {
   }
 
   const refresh = () => {
-    //inicializar la lista de persons
-    setPersons(props.persons)
+    //inicializar las listas
+    setPersonsFilter('')
+    setPersons(persons)
     //limpiar el campo del filtro 
     setNewFilter('')
   }
@@ -81,11 +83,10 @@ const App = (props) => {
             handleNumberChange={handleNumberChange}
       />
        
-
       <div>
       <h2>Numbers</h2>      
          
-          <Person  persons={persons}/>        
+          <Person  persons={persons} personfilter={newPersonsFilter}/>        
      
       </div>
     </div>
