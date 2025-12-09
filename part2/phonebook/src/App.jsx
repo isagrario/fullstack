@@ -1,15 +1,28 @@
-import { useState } from 'react'
+import { useState ,useEffect} from 'react'
+import axios from 'axios'
 import Person from './components/Person'
 import Filter from './components/Filter'
 import Form from './components/Form'
 
 
-const App = (props) => {
-  const [persons, setPersons] = useState(props.persons) 
+const App = () => {
+  const [persons, setPersons] = useState([]) 
   const [newName, setNewName] = useState('')
   const [newNumber, setNewNumber] = useState('')
   const [newfilter, setNewFilter] = useState('')
   const [newPersonsFilter, setPersonsFilter] = useState('')
+
+  const hook = () => {
+    console.log('effect')
+    axios
+      .get('http://localhost:3001/persons')
+      .then(response => {
+        console.log('promise fulfilled')
+        setPersons(response.data)
+      })
+  }
+
+useEffect(hook, [])
 
   const addName = (event) => {
     //evita el modo por defecto
@@ -47,7 +60,7 @@ const App = (props) => {
   }
 
   const handleFilterChange = (event) => {    
-     //console.log(event.target.value) 
+     console.log(event.target.value) 
     //actualizar el estado del flitro 
     setNewFilter(event.target.value)
     //aplicar el filtro a la una nueva lista de persons
