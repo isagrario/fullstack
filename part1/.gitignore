@@ -33,3 +33,4 @@ dist-ssr
 /vite.config.js
 /components/*
 /codigo/*
+db.json
