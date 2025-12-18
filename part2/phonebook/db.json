@@ -2,28 +2,18 @@
   "persons": [
     {
       "name": "Arto Hellas",
-      "number": "8888888",
+      "number": "457896",
       "id": "1"
     },
     {
       "name": "Ada Lovelace",
-      "number": "55555555",
+      "number": "88888888",
       "id": "2"
     },
     {
-      "name": "Dan Abramov",
-      "number": "88888888",
-      "id": "3"
-    },
-    {
-      "id": "4",
-      "name": "Pepe potamo",
-      "number": "457896"
-    },
-    {
-      "id": "5",
-      "name": "Mary Terri",
-      "number": "53698741"
+      "id": "3",
+      "name": "Jesus alvarez",
+      "number": "78962"
     }
   ]
 }

@@ -1,14 +1,17 @@
 const Form = ({
     addName,newName,handleNameChange,newNumber,handleNumberChange
 }) => {
+
+
+  
   return(
     <form onSubmit={addName}>
         <div>
-          <b>Name: </b>       
+          <label>Name: </label>       
           <input value={newName} onChange={handleNameChange}  />
         </div>
         <div>
-         <b>Number:</b>
+         <label>Number:</label>
         <input value={newNumber} onChange={handleNumberChange}  />
         </div>
         <div>

@@ -2,6 +2,7 @@ import { useState ,useEffect} from 'react'
 import Person from './components/Person'
 import Filter from './components/Filter'
 import Form from './components/Form'
+import Notification from './components/Notification'
 import personService from './services/persons'
 
 
@@ -11,15 +12,27 @@ const App = () => {
   const [newNumber, setNewNumber] = useState('')
   const [newfilter, setNewFilter] = useState('')
   const [newPersonsFilter, setPersonsFilter] = useState('')
-  const [error, setError] = useState(null);
+  const [notification, setNotification] = useState(null);
+  const [messageType, setMessageType] = useState('message');
 
+  const setNotificationMessage = (message,type) => {
+    setNotification(message);
+    setMessageType(type);
+    setTimeout(() => {
+      setNotification(null);
+    }, 5000);
+  }
+
+  
   const hook = () => {
     personService  
       .getAll()
       .then((initialPersons) => {
       setPersons(initialPersons)
+      console.log(import.meta.env.VITE_SOME_KEY);
     })
   }
+
 
 useEffect(hook, [])
 
@@ -31,11 +44,12 @@ useEffect(hook, [])
         .update(id, changedPerson)
         .then(returnedPerson => {
             setPersons(persons.map(person => person.id !== id ? person : returnedPerson))
+            setNotificationMessage(`¡Número de teléfono de ${newName} actualizado!`,'message')
           })
         .catch(error => {
-            setError(error)
+            setNotificationMessage(error.message,'error')
         })
-    }
+  }
 
   const addName = (event) => {
     //evita el modo por defecto
@@ -51,7 +65,7 @@ useEffect(hook, [])
     if(persons.find(person => person.name === newName)){
      
       if(newNumber === ''){
-        alert(`${newName} ya existe, si quiere cambiar el Teléfono inserte uno nuevo`)
+        setNotificationMessage(`${newName} ya existe, si quiere cambiar el Teléfono inserte uno nuevo`,'error')
         return
       }
       if (window.confirm(`¿Quiere cambiar el Teléfono de ${newName} ?`)){
@@ -78,10 +92,11 @@ useEffect(hook, [])
           setPersons(persons.concat(returnedPerson))
           //limpiar los campos del formulario
           setNewName('')
-          setNewNumber('') 
+          setNewNumber('')
+          setNotificationMessage(`${newName} añadido al listado telefónico`,'message') 
         })
         .catch(error => {
-            setError(error)
+          setNotificationMessage(error.message,'error')
         })
               
     }
@@ -134,15 +149,22 @@ useEffect(hook, [])
            //limpiar el campo del filtro 
           setNewFilter('')
           setPersons(persons.filter(p => p.id !== id))
+          setNotificationMessage(`¡${person.name} Ha sido eliminado del listado telefónico!`,'warning') 
         })
         .catch(error => {
-            setError(error);
+           if(error.status === 404){
+            setNotificationMessage(`¡La información de ${person.name} ya ha sido eliminada servidor!`,'error')
+            setPersons(persons.filter(p => p.id !== id))
+           } else {
+            setNotificationMessage(error.message,'error')
+           }
         });
     }
   }
 
   return (
     <div>
+      <Notification message={notification} messageType={messageType} />
 
       <h2>Phonebook</h2>
       <Filter newfilter={newfilter} 
@@ -163,7 +185,6 @@ useEffect(hook, [])
           <Person persons={persons} 
                   personfilter={newPersonsFilter} 
                   remove={remove} 
-                  error={error}
           />
       </div>
 

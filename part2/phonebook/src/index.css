@@ -1,0 +1,25 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin-left: 10%;
+  margin-top: 2%;
+  background-color: #f9f9f9;
+}
+h2 {
+  color: green;
+  font-style: italic;
+}
+label {
+  font-weight: bold;
+  display: inline-block;
+  width: 80px;
+} 
+input {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+
+}
+button {
+  margin-left: 10px;
+}

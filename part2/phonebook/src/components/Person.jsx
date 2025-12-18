@@ -1,12 +1,11 @@
 const Person = ({ persons, personfilter,remove ,error}) => {
-  //Mostrar error si existe
-  if(error){
-    return(
-      <div style={{color: 'red'}}>
-        {error.message}
-      </div>
-    )
-  }
+  const LineStyle = {    
+      color: 'grey',
+      fontSize: 15,
+      paddingTop: 3,
+      marginBottom: 10,
+    }  
+  
  //Si hay filtro, mostrar la lista filtrada
   let personArray = []
   if (personfilter && personfilter.length > 0){
@@ -20,7 +19,7 @@ const Person = ({ persons, personfilter,remove ,error}) => {
       <ul>
       {personArray.map(person => 
 
-            <li key={person.id} >
+            <li key={person.id} style={LineStyle} >
                {person.name} -- {person.number}
               <form onSubmit={remove}>
                 <input type="hidden" name="id" value={person.id} /> 
