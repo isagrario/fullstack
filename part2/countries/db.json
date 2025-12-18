@@ -1,0 +1,3145 @@
+{ "countries": [
+  {
+    "name": "Kuwait",
+    "official": "State of Kuwait",
+    "nativeName": {
+      "ara": {
+        "official": "دولة الكويت",
+        "name": "الكويت"
+      }
+    }
+  },
+  {
+    "name": "Austria",
+    "official": "Republic of Austria",
+    "nativeName": {
+      "bar": {
+        "official": "Republik Österreich",
+        "name": "Österreich"
+      }
+    }
+  },
+  {
+    "name": "Mayotte",
+    "official": "Department of Mayotte",
+    "nativeName": {
+      "fra": {
+        "official": "Département de Mayotte",
+        "name": "Mayotte"
+      }
+    }
+  },
+  {
+    "name": "Tunisia",
+    "official": "Tunisian Republic",
+    "nativeName": {
+      "ara": {
+        "official": "الجمهورية التونسية",
+        "name": "تونس"
+      }
+    }
+  },
+  {
+    "name": "Japan",
+    "official": "Japan",
+    "nativeName": {
+      "jpn": {
+        "official": "日本",
+        "name": "日本"
+      }
+    }
+  },
+  {
+    "name": "Guyana",
+    "official": "Co-operative Republic of Guyana",
+    "nativeName": {
+      "eng": {
+        "official": "Co-operative Republic of Guyana",
+        "name": "Guyana"
+      }
+    }
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "official": "Saint Helena, Ascension and Tristan da Cunha",
+    "nativeName": {
+      "eng": {
+        "official": "Saint Helena, Ascension and Tristan da Cunha",
+        "name": "Saint Helena, Ascension and Tristan da Cunha"
+      }
+    }
+  },
+  {
+    "name": "Saint Martin",
+    "official": "Saint Martin",
+    "nativeName": {
+      "fra": {
+        "official": "Saint-Martin",
+        "name": "Saint-Martin"
+      }
+    }
+  },
+  {
+    "name": "Guatemala",
+    "official": "Republic of Guatemala",
+    "nativeName": {
+      "spa": {
+        "official": "República de Guatemala",
+        "name": "Guatemala"
+      }
+    }
+  },
+  {
+    "name": "Venezuela",
+    "official": "Bolivarian Republic of Venezuela",
+    "nativeName": {
+      "spa": {
+        "official": "República Bolivariana de Venezuela",
+        "name": "Venezuela"
+      }
+    }
+  },
+  {
+    "name": "French Southern and Antarctic Lands",
+    "official": "Territory of the French Southern and Antarctic Lands",
+    "nativeName": {
+      "fra": {
+        "official": "Territoire des Terres australes et antarctiques françaises",
+        "name": "Terres australes et antarctiques françaises"
+      }
+    }
+  },
+  {
+    "name": "Cape Verde",
+    "official": "Republic of Cabo Verde",
+    "nativeName": {
+      "por": {
+        "official": "República de Cabo Verde",
+        "name": "Cabo Verde"
+      }
+    }
+  },
+  {
+    "name": "Azerbaijan",
+    "official": "Republic of Azerbaijan",
+    "nativeName": {
+      "aze": {
+        "official": "Azərbaycan Respublikası",
+        "name": "Azərbaycan"
+      },
+      "rus": {
+        "official": "Азербайджанская Республика",
+        "name": "Азербайджан"
+      }
+    }
+  },
+  {
+    "name": "Guernsey",
+    "official": "Bailiwick of Guernsey",
+    "nativeName": {
+      "eng": {
+        "official": "Bailiwick of Guernsey",
+        "name": "Guernsey"
+      },
+      "fra": {
+        "official": "Bailliage de Guernesey",
+        "name": "Guernesey"
+      },
+      "nfr": {
+        "official": "Dgèrnésiais",
+        "name": "Dgèrnésiais"
+      }
+    }
+  },
+  {
+    "name": "Kenya",
+    "official": "Republic of Kenya",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of Kenya",
+        "name": "Kenya"
+      },
+      "swa": {
+        "official": "Republic of Kenya",
+        "name": "Kenya"
+      }
+    }
+  },
+  {
+    "name": "South Sudan",
+    "official": "Republic of South Sudan",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of South Sudan",
+        "name": "South Sudan"
+      }
+    }
+  },
+  {
+    "name": "Myanmar",
+    "official": "Republic of the Union of Myanmar",
+    "nativeName": {
+      "mya": {
+        "official": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
+        "name": "မြန်မာ"
+      }
+    }
+  },
+  {
+    "name": "Liechtenstein",
+    "official": "Principality of Liechtenstein",
+    "nativeName": {
+      "deu": {
+        "official": "Fürstentum Liechtenstein",
+        "name": "Liechtenstein"
+      }
+    }
+  },
+  {
+    "name": "Martinique",
+    "official": "Martinique",
+    "nativeName": {
+      "fra": {
+        "official": "Martinique",
+        "name": "Martinique"
+      }
+    }
+  },
+  {
+    "name": "Australia",
+    "official": "namewealth of Australia",
+    "nativeName": {
+      "eng": {
+        "official": "namewealth of Australia",
+        "name": "Australia"
+      }
+    }
+  },
+  {
+    "name": "Costa Rica",
+    "official": "Republic of Costa Rica",
+    "nativeName": {
+      "spa": {
+        "official": "República de Costa Rica",
+        "name": "Costa Rica"
+      }
+    }
+  },
+  {
+    "name": "Palestine",
+    "official": "State of Palestine",
+    "nativeName": {
+      "ara": {
+        "official": "دولة فلسطين",
+        "name": "فلسطين"
+      }
+    }
+  },
+  {
+    "name": "Spain",
+    "official": "Kingdom of Spain",
+    "nativeName": {
+      "spa": {
+        "official": "Reino de España",
+        "name": "España"
+      }
+    }
+  },
+  {
+    "name": "Guinea-Bissau",
+    "official": "Republic of Guinea-Bissau",
+    "nativeName": {
+      "por": {
+        "official": "República da Guiné-Bissau",
+        "name": "Guiné-Bissau"
+      },
+      "pov": {
+        "official": "República da Guiné-Bissau",
+        "name": "Guiné-Bissau"
+      }
+    }
+  },
+  {
+    "name": "Åland Islands",
+    "official": "Åland Islands",
+    "nativeName": {
+      "swe": {
+        "official": "Landskapet Åland",
+        "name": "Åland"
+      }
+    }
+  },
+  {
+    "name": "Sierra Leone",
+    "official": "Republic of Sierra Leone",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of Sierra Leone",
+        "name": "Sierra Leone"
+      }
+    }
+  },
+  {
+    "name": "Philippines",
+    "official": "Republic of the Philippines",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of the Philippines",
+        "name": "Philippines"
+      },
+      "fil": {
+        "official": "Republic of the Philippines",
+        "name": "Pilipinas"
+      }
+    }
+  },
+  {
+    "name": "Togo",
+    "official": "Togolese Republic",
+    "nativeName": {
+      "fra": {
+        "official": "République togolaise",
+        "name": "Togo"
+      }
+    }
+  },
+  {
+    "name": "Russia",
+    "official": "Russian Federation",
+    "nativeName": {
+      "rus": {
+        "official": "Российская Федерация",
+        "name": "Россия"
+      }
+    }
+  },
+  {
+    "name": "Haiti",
+    "official": "Republic of Haiti",
+    "nativeName": {
+      "fra": {
+        "official": "République d'Haïti",
+        "name": "Haïti"
+      },
+      "hat": {
+        "official": "Repiblik Ayiti",
+        "name": "Ayiti"
+      }
+    }
+  },
+  {
+    "name": "South Korea",
+    "official": "Republic of Korea",
+    "nativeName": {
+      "kor": {
+        "official": "대한민국",
+        "name": "한국"
+      }
+    }
+  },
+  {
+    "name": "Samoa",
+    "official": "Independent State of Samoa",
+    "nativeName": {
+      "eng": {
+        "official": "Independent State of Samoa",
+        "name": "Samoa"
+      },
+      "smo": {
+        "official": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
+        "name": "Sāmoa"
+      }
+    }
+  },
+  {
+    "name": "Aruba",
+    "official": "Aruba",
+    "nativeName": {
+      "nld": {
+        "official": "Aruba",
+        "name": "Aruba"
+      },
+      "pap": {
+        "official": "Aruba",
+        "name": "Aruba"
+      }
+    }
+  },
+  {
+    "name": "Afghanistan",
+    "official": "Islamic Republic of Afghanistan",
+    "nativeName": {
+      "prs": {
+        "official": "جمهوری اسلامی افغانستان",
+        "name": "افغانستان"
+      },
+      "pus": {
+        "official": "د افغانستان اسلامي جمهوریت",
+        "name": "افغانستان"
+      },
+      "tuk": {
+        "official": "Owganystan Yslam Respublikasy",
+        "name": "Owganystan"
+      }
+    }
+  },
+  {
+    "name": "Bouvet Island",
+    "official": "Bouvet Island",
+    "nativeName": {
+      "nor": {
+        "official": "Bouvetøya",
+        "name": "Bouvetøya"
+      }
+    }
+  },
+  {
+    "name": "Bahamas",
+    "official": "namewealth of the Bahamas",
+    "nativeName": {
+      "eng": {
+        "official": "namewealth of the Bahamas",
+        "name": "Bahamas"
+      }
+    }
+  },
+  {
+    "name": "Georgia",
+    "official": "Georgia",
+    "nativeName": {
+      "kat": {
+        "official": "საქართველო",
+        "name": "საქართველო"
+      }
+    }
+  },
+  {
+    "name": "Cayman Islands",
+    "official": "Cayman Islands",
+    "nativeName": {
+      "eng": {
+        "official": "Cayman Islands",
+        "name": "Cayman Islands"
+      }
+    }
+  },
+  {
+    "name": "North Macedonia",
+    "official": "Republic of North Macedonia",
+    "nativeName": {
+      "mkd": {
+        "official": "Република Северна Македонија",
+        "name": "Македонија"
+      }
+    }
+  },
+  {
+    "name": "Syria",
+    "official": "Syrian Arab Republic",
+    "nativeName": {
+      "ara": {
+        "official": "الجمهورية العربية السورية",
+        "name": "سوريا"
+      }
+    }
+  },
+  {
+    "name": "Hong Kong",
+    "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+    "nativeName": {
+      "eng": {
+        "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+        "name": "Hong Kong"
+      },
+      "zho": {
+        "official": "中华人民共和国香港特别行政区",
+        "name": "香港"
+      }
+    }
+  },
+  {
+    "name": "Chile",
+    "official": "Republic of Chile",
+    "nativeName": {
+      "spa": {
+        "official": "República de Chile",
+        "name": "Chile"
+      }
+    }
+  },
+  {
+    "name": "Zimbabwe",
+    "official": "Republic of Zimbabwe",
+    "nativeName": {
+      "bwg": {
+        "official": "Republic of Zimbabwe",
+        "name": "Zimbabwe"
+      },
+      "eng": {
+        "official": "Republic of Zimbabwe",
+        "name": "Zimbabwe"
+      },
+      "kck": {
+        "official": "Republic of Zimbabwe",
+        "name": "Zimbabwe"
+      },
+      "khi": {
+        "official": "Republic of Zimbabwe",
+        "name": "Zimbabwe"
+      },
+      "ndc": {
+        "official": "Republic of Zimbabwe",
+        "name": "Zimbabwe"
+      },
+      "nde": {
+        "official": "Republic of Zimbabwe",
+        "name": "Zimbabwe"
+      },
+      "nya": {
+        "official": "Republic of Zimbabwe",
+        "name": "Zimbabwe"
+      },
+      "sna": {
+        "official": "Republic of Zimbabwe",
+        "name": "Zimbabwe"
+      },
+      "sot": {
+        "official": "Republic of Zimbabwe",
+        "name": "Zimbabwe"
+      },
+      "toi": {
+        "official": "Republic of Zimbabwe",
+        "name": "Zimbabwe"
+      },
+      "tsn": {
+        "official": "Republic of Zimbabwe",
+        "name": "Zimbabwe"
+      },
+      "tso": {
+        "official": "Republic of Zimbabwe",
+        "name": "Zimbabwe"
+      },
+      "ven": {
+        "official": "Republic of Zimbabwe",
+        "name": "Zimbabwe"
+      },
+      "xho": {
+        "official": "Republic of Zimbabwe",
+        "name": "Zimbabwe"
+      },
+      "zib": {
+        "official": "Republic of Zimbabwe",
+        "name": "Zimbabwe"
+      }
+    }
+  },
+  {
+    "name": "Caribbean Netherlands",
+    "official": "Bonaire, Sint Eustatius and Saba",
+    "nativeName": {
+      "nld": {
+        "official": "Bonaire, Sint Eustatius en Saba",
+        "name": "Caribisch Nederland"
+      },
+      "pap": {
+        "official": "Boneiru, Sint Eustatius y Saba",
+        "name": "Boneiru, Sint Eustatius y Saba"
+      }
+    }
+  },
+  {
+    "name": "Netherlands",
+    "official": "Kingdom of the Netherlands",
+    "nativeName": {
+      "nld": {
+        "official": "Koninkrijk der Nederlanden",
+        "name": "Nederland"
+      }
+    }
+  },
+  {
+    "name": "Canada",
+    "official": "Canada",
+    "nativeName": {
+      "eng": {
+        "official": "Canada",
+        "name": "Canada"
+      },
+      "fra": {
+        "official": "Canada",
+        "name": "Canada"
+      }
+    }
+  },
+  {
+    "name": "Equatorial Guinea",
+    "official": "Republic of Equatorial Guinea",
+    "nativeName": {
+      "fra": {
+        "official": "République de la Guinée Équatoriale",
+        "name": "Guinée équatoriale"
+      },
+      "por": {
+        "official": "República da Guiné Equatorial",
+        "name": "Guiné Equatorial"
+      },
+      "spa": {
+        "official": "República de Guinea Ecuatorial",
+        "name": "Guinea Ecuatorial"
+      }
+    }
+  },
+  {
+    "name": "Eswatini",
+    "official": "Kingdom of Eswatini",
+    "nativeName": {
+      "eng": {
+        "official": "Kingdom of Eswatini",
+        "name": "Eswatini"
+      },
+      "ssw": {
+        "official": "Umbuso weSwatini",
+        "name": "eSwatini"
+      }
+    }
+  },
+  {
+    "name": "Oman",
+    "official": "Sultanate of Oman",
+    "nativeName": {
+      "ara": {
+        "official": "سلطنة عمان",
+        "name": "عمان"
+      }
+    }
+  },
+  {
+    "name": "United States",
+    "official": "United States of America",
+    "nativeName": {
+      "eng": {
+        "official": "United States of America",
+        "name": "United States"
+      }
+    }
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "official": "Heard Island and McDonald Islands",
+    "nativeName": {
+      "eng": {
+        "official": "Heard Island and McDonald Islands",
+        "name": "Heard Island and McDonald Islands"
+      }
+    }
+  },
+  {
+    "name": "Romania",
+    "official": "Romania",
+    "nativeName": {
+      "ron": {
+        "official": "România",
+        "name": "România"
+      }
+    }
+  },
+  {
+    "name": "South Africa",
+    "official": "Republic of South Africa",
+    "nativeName": {
+      "afr": {
+        "official": "Republiek van Suid-Afrika",
+        "name": "South Africa"
+      },
+      "eng": {
+        "official": "Republic of South Africa",
+        "name": "South Africa"
+      },
+      "nbl": {
+        "official": "IRiphabliki yeSewula Afrika",
+        "name": "Sewula Afrika"
+      },
+      "nso": {
+        "official": "Rephaboliki ya Afrika-Borwa ",
+        "name": "Afrika-Borwa"
+      },
+      "sot": {
+        "official": "Rephaboliki ya Afrika Borwa",
+        "name": "Afrika Borwa"
+      },
+      "ssw": {
+        "official": "IRiphabhulikhi yeNingizimu Afrika",
+        "name": "Ningizimu Afrika"
+      },
+      "tsn": {
+        "official": "Rephaboliki ya Aforika Borwa",
+        "name": "Aforika Borwa"
+      },
+      "tso": {
+        "official": "Riphabliki ra Afrika Dzonga",
+        "name": "Afrika Dzonga"
+      },
+      "ven": {
+        "official": "Riphabuḽiki ya Afurika Tshipembe",
+        "name": "Afurika Tshipembe"
+      },
+      "xho": {
+        "official": "IRiphabliki yaseMzantsi Afrika",
+        "name": "Mzantsi Afrika"
+      },
+      "zul": {
+        "official": "IRiphabliki yaseNingizimu Afrika",
+        "name": "Ningizimu Afrika"
+      }
+    }
+  },
+  {
+    "name": "Mozambique",
+    "official": "Republic of Mozambique",
+    "nativeName": {
+      "por": {
+        "official": "República de Moçambique",
+        "name": "Moçambique"
+      }
+    }
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "official": "Republic of Trinidad and Tobago",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of Trinidad and Tobago",
+        "name": "Trinidad and Tobago"
+      }
+    }
+  },
+  {
+    "name": "Bahrain",
+    "official": "Kingdom of Bahrain",
+    "nativeName": {
+      "ara": {
+        "official": "مملكة البحرين",
+        "name": "‏البحرين"
+      }
+    }
+  },
+  {
+    "name": "Republic of the Congo",
+    "official": "Republic of the Congo",
+    "nativeName": {
+      "fra": {
+        "official": "République du Congo",
+        "name": "République du Congo"
+      },
+      "kon": {
+        "official": "Repubilika ya Kongo",
+        "name": "Repubilika ya Kongo"
+      },
+      "lin": {
+        "official": "Republíki ya Kongó",
+        "name": "Republíki ya Kongó"
+      }
+    }
+  },
+  {
+    "name": "Lebanon",
+    "official": "Lebanese Republic",
+    "nativeName": {
+      "ara": {
+        "official": "الجمهورية اللبنانية",
+        "name": "لبنان"
+      },
+      "fra": {
+        "official": "République libanaise",
+        "name": "Liban"
+      }
+    }
+  },
+  {
+    "name": "Réunion",
+    "official": "Réunion Island",
+    "nativeName": {
+      "fra": {
+        "official": "Ile de la Réunion",
+        "name": "La Réunion"
+      }
+    }
+  },
+  {
+    "name": "Estonia",
+    "official": "Republic of Estonia",
+    "nativeName": {
+      "est": {
+        "official": "Eesti Vabariik",
+        "name": "Eesti"
+      }
+    }
+  },
+  {
+    "name": "Bangladesh",
+    "official": "People's Republic of Bangladesh",
+    "nativeName": {
+      "ben": {
+        "official": "বাংলাদেশ গণপ্রজাতন্ত্রী",
+        "name": "বাংলাদেশ"
+      }
+    }
+  },
+  {
+    "name": "Ethiopia",
+    "official": "Federal Democratic Republic of Ethiopia",
+    "nativeName": {
+      "amh": {
+        "official": "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ",
+        "name": "ኢትዮጵያ"
+      }
+    }
+  },
+  {
+    "name": "Peru",
+    "official": "Republic of Peru",
+    "nativeName": {
+      "aym": {
+        "official": "Piruw Suyu",
+        "name": "Piruw"
+      },
+      "que": {
+        "official": "Piruw Ripuwlika",
+        "name": "Piruw"
+      },
+      "spa": {
+        "official": "República del Perú",
+        "name": "Perú"
+      }
+    }
+  },
+  {
+    "name": "South Georgia",
+    "official": "South Georgia and the South Sandwich Islands",
+    "nativeName": {
+      "eng": {
+        "official": "South Georgia and the South Sandwich Islands",
+        "name": "South Georgia"
+      }
+    }
+  },
+  {
+    "name": "Ecuador",
+    "official": "Republic of Ecuador",
+    "nativeName": {
+      "spa": {
+        "official": "República del Ecuador",
+        "name": "Ecuador"
+      }
+    }
+  },
+  {
+    "name": "Vatican City",
+    "official": "Vatican City State",
+    "nativeName": {
+      "ita": {
+        "official": "Stato della Città del Vaticano",
+        "name": "Vaticano"
+      },
+      "lat": {
+        "official": "Status Civitatis Vaticanæ",
+        "name": "Vaticanæ"
+      }
+    }
+  },
+  {
+    "name": "Mauritius",
+    "official": "Republic of Mauritius",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of Mauritius",
+        "name": "Mauritius"
+      },
+      "fra": {
+        "official": "République de Maurice",
+        "name": "Maurice"
+      },
+      "mfe": {
+        "official": "Republik Moris",
+        "name": "Moris"
+      }
+    }
+  },
+  {
+    "name": "American Samoa",
+    "official": "American Samoa",
+    "nativeName": {
+      "eng": {
+        "official": "American Samoa",
+        "name": "American Samoa"
+      },
+      "smo": {
+        "official": "Sāmoa Amelika",
+        "name": "Sāmoa Amelika"
+      }
+    }
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "official": "Saint Pierre and Miquelon",
+    "nativeName": {
+      "fra": {
+        "official": "Collectivité territoriale de Saint-Pierre-et-Miquelon",
+        "name": "Saint-Pierre-et-Miquelon"
+      }
+    }
+  },
+  {
+    "name": "Cuba",
+    "official": "Republic of Cuba",
+    "nativeName": {
+      "spa": {
+        "official": "República de Cuba",
+        "name": "Cuba"
+      }
+    }
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "official": "British Indian Ocean Territory",
+    "nativeName": {
+      "eng": {
+        "official": "British Indian Ocean Territory",
+        "name": "British Indian Ocean Territory"
+      }
+    }
+  },
+  {
+    "name": "Vietnam",
+    "official": "Socialist Republic of Vietnam",
+    "nativeName": {
+      "vie": {
+        "official": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+        "name": "Việt Nam"
+      }
+    }
+  },
+  {
+    "name": "Benin",
+    "official": "Republic of Benin",
+    "nativeName": {
+      "fra": {
+        "official": "République du Bénin",
+        "name": "Bénin"
+      }
+    }
+  },
+  {
+    "name": "Greece",
+    "official": "Hellenic Republic",
+    "nativeName": {
+      "ell": {
+        "official": "Ελληνική Δημοκρατία",
+        "name": "Ελλάδα"
+      }
+    }
+  },
+  {
+    "name": "Grenada",
+    "official": "Grenada",
+    "nativeName": {
+      "eng": {
+        "official": "Grenada",
+        "name": "Grenada"
+      }
+    }
+  },
+  {
+    "name": "Belize",
+    "official": "Belize",
+    "nativeName": {
+      "bjz": {
+        "official": "Belize",
+        "name": "Belize"
+      },
+      "eng": {
+        "official": "Belize",
+        "name": "Belize"
+      },
+      "spa": {
+        "official": "Belice",
+        "name": "Belice"
+      }
+    }
+  },
+  {
+    "name": "China",
+    "official": "People's Republic of China",
+    "nativeName": {
+      "zho": {
+        "official": "中华人民共和国",
+        "name": "中国"
+      }
+    }
+  },
+  {
+    "name": "Montenegro",
+    "official": "Montenegro",
+    "nativeName": {
+      "cnr": {
+        "official": "Црна Гора",
+        "name": "Црна Гора"
+      }
+    }
+  },
+  {
+    "name": "Thailand",
+    "official": "Kingdom of Thailand",
+    "nativeName": {
+      "tha": {
+        "official": "ราชอาณาจักรไทย",
+        "name": "ประเทศไทย"
+      }
+    }
+  },
+  {
+    "name": "Guam",
+    "official": "Guam",
+    "nativeName": {
+      "cha": {
+        "official": "Guåhån",
+        "name": "Guåhån"
+      },
+      "eng": {
+        "official": "Guam",
+        "name": "Guam"
+      },
+      "spa": {
+        "official": "Guam",
+        "name": "Guam"
+      }
+    }
+  },
+  {
+    "name": "Comoros",
+    "official": "Union of the Comoros",
+    "nativeName": {
+      "ara": {
+        "official": "الاتحاد القمري",
+        "name": "القمر‎"
+      },
+      "fra": {
+        "official": "Union des Comores",
+        "name": "Comores"
+      },
+      "zdj": {
+        "official": "Udzima wa Komori",
+        "name": "Komori"
+      }
+    }
+  },
+  {
+    "name": "Laos",
+    "official": "Lao People's Democratic Republic",
+    "nativeName": {
+      "lao": {
+        "official": "ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ",
+        "name": "ສປປລາວ"
+      }
+    }
+  },
+  {
+    "name": "Mali",
+    "official": "Republic of Mali",
+    "nativeName": {
+      "fra": {
+        "official": "République du Mali",
+        "name": "Mali"
+      }
+    }
+  },
+  {
+    "name": "Germany",
+    "official": "Federal Republic of Germany",
+    "nativeName": {
+      "deu": {
+        "official": "Bundesrepublik Deutschland",
+        "name": "Deutschland"
+      }
+    }
+  },
+  {
+    "name": "Suriname",
+    "official": "Republic of Suriname",
+    "nativeName": {
+      "nld": {
+        "official": "Republiek Suriname",
+        "name": "Suriname"
+      }
+    }
+  },
+  {
+    "name": "Gambia",
+    "official": "Republic of the Gambia",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of the Gambia",
+        "name": "Gambia"
+      }
+    }
+  },
+  {
+    "name": "Maldives",
+    "official": "Republic of the Maldives",
+    "nativeName": {
+      "div": {
+        "official": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
+        "name": "ދިވެހިރާއްޖޭގެ"
+      }
+    }
+  },
+  {
+    "name": "Tonga",
+    "official": "Kingdom of Tonga",
+    "nativeName": {
+      "eng": {
+        "official": "Kingdom of Tonga",
+        "name": "Tonga"
+      },
+      "ton": {
+        "official": "Kingdom of Tonga",
+        "name": "Tonga"
+      }
+    }
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "official": "Antigua and Barbuda",
+    "nativeName": {
+      "eng": {
+        "official": "Antigua and Barbuda",
+        "name": "Antigua and Barbuda"
+      }
+    }
+  },
+  {
+    "name": "Guinea",
+    "official": "Republic of Guinea",
+    "nativeName": {
+      "fra": {
+        "official": "République de Guinée",
+        "name": "Guinée"
+      }
+    }
+  },
+  {
+    "name": "Curaçao",
+    "official": "Country of Curaçao",
+    "nativeName": {
+      "eng": {
+        "official": "Country of Curaçao",
+        "name": "Curaçao"
+      },
+      "nld": {
+        "official": "Land Curaçao",
+        "name": "Curaçao"
+      },
+      "pap": {
+        "official": "Pais Kòrsou",
+        "name": "Pais Kòrsou"
+      }
+    }
+  },
+  {
+    "name": "Panama",
+    "official": "Republic of Panama",
+    "nativeName": {
+      "spa": {
+        "official": "República de Panamá",
+        "name": "Panamá"
+      }
+    }
+  },
+  {
+    "name": "Papua New Guinea",
+    "official": "Independent State of Papua New Guinea",
+    "nativeName": {
+      "eng": {
+        "official": "Independent State of Papua New Guinea",
+        "name": "Papua New Guinea"
+      },
+      "hmo": {
+        "official": "Independen Stet bilong Papua Niugini",
+        "name": "Papua Niu Gini"
+      },
+      "tpi": {
+        "official": "Independen Stet bilong Papua Niugini",
+        "name": "Papua Niugini"
+      }
+    }
+  },
+  {
+    "name": "New Caledonia",
+    "official": "New Caledonia",
+    "nativeName": {
+      "fra": {
+        "official": "Nouvelle-Calédonie",
+        "name": "Nouvelle-Calédonie"
+      }
+    }
+  },
+  {
+    "name": "Croatia",
+    "official": "Republic of Croatia",
+    "nativeName": {
+      "hrv": {
+        "official": "Republika Hrvatska",
+        "name": "Hrvatska"
+      }
+    }
+  },
+  {
+    "name": "Palau",
+    "official": "Republic of Palau",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of Palau",
+        "name": "Palau"
+      },
+      "pau": {
+        "official": "Beluu er a Belau",
+        "name": "Belau"
+      }
+    }
+  },
+  {
+    "name": "United States Virgin Islands",
+    "official": "Virgin Islands of the United States",
+    "nativeName": {
+      "eng": {
+        "official": "Virgin Islands of the United States",
+        "name": "United States Virgin Islands"
+      }
+    }
+  },
+  {
+    "name": "Cambodia",
+    "official": "Kingdom of Cambodia",
+    "nativeName": {
+      "khm": {
+        "official": "ព្រះរាជាណាចក្រកម្ពុជា",
+        "name": "Kâmpŭchéa"
+      }
+    }
+  },
+  {
+    "name": "Puerto Rico",
+    "official": "namewealth of Puerto Rico",
+    "nativeName": {
+      "eng": {
+        "official": "namewealth of Puerto Rico",
+        "name": "Puerto Rico"
+      },
+      "spa": {
+        "official": "Estado Libre Asociado de Puerto Rico",
+        "name": "Puerto Rico"
+      }
+    }
+  },
+  {
+    "name": "French Polynesia",
+    "official": "French Polynesia",
+    "nativeName": {
+      "fra": {
+        "official": "Polynésie française",
+        "name": "Polynésie française"
+      }
+    }
+  },
+  {
+    "name": "Nicaragua",
+    "official": "Republic of Nicaragua",
+    "nativeName": {
+      "spa": {
+        "official": "República de Nicaragua",
+        "name": "Nicaragua"
+      }
+    }
+  },
+  {
+    "name": "Colombia",
+    "official": "Republic of Colombia",
+    "nativeName": {
+      "spa": {
+        "official": "República de Colombia",
+        "name": "Colombia"
+      }
+    }
+  },
+  {
+    "name": "Mauritania",
+    "official": "Islamic Republic of Mauritania",
+    "nativeName": {
+      "ara": {
+        "official": "الجمهورية الإسلامية الموريتانية",
+        "name": "موريتانيا"
+      }
+    }
+  },
+  {
+    "name": "Botswana",
+    "official": "Republic of Botswana",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of Botswana",
+        "name": "Botswana"
+      },
+      "tsn": {
+        "official": "Lefatshe la Botswana",
+        "name": "Botswana"
+      }
+    }
+  },
+  {
+    "name": "Fiji",
+    "official": "Republic of Fiji",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of Fiji",
+        "name": "Fiji"
+      },
+      "fij": {
+        "official": "Matanitu Tugalala o Viti",
+        "name": "Viti"
+      },
+      "hif": {
+        "official": "रिपब्लिक ऑफ फीजी",
+        "name": "फिजी"
+      }
+    }
+  },
+  {
+    "name": "Latvia",
+    "official": "Republic of Latvia",
+    "nativeName": {
+      "lav": {
+        "official": "Latvijas Republikas",
+        "name": "Latvija"
+      }
+    }
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "official": "Svalbard og Jan Mayen",
+    "nativeName": {
+      "nor": {
+        "official": "Svalbard og Jan Mayen",
+        "name": "Svalbard og Jan Mayen"
+      }
+    }
+  },
+  {
+    "name": "Bermuda",
+    "official": "Bermuda",
+    "nativeName": {
+      "eng": {
+        "official": "Bermuda",
+        "name": "Bermuda"
+      }
+    }
+  },
+  {
+    "name": "Uganda",
+    "official": "Republic of Uganda",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of Uganda",
+        "name": "Uganda"
+      },
+      "swa": {
+        "official": "Republic of Uganda",
+        "name": "Uganda"
+      }
+    }
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "official": "Bosnia and Herzegovina",
+    "nativeName": {
+      "bos": {
+        "official": "Bosna i Hercegovina",
+        "name": "Bosna i Hercegovina"
+      },
+      "hrv": {
+        "official": "Bosna i Hercegovina",
+        "name": "Bosna i Hercegovina"
+      },
+      "srp": {
+        "official": "Босна и Херцеговина",
+        "name": "Босна и Херцеговина"
+      }
+    }
+  },
+  {
+    "name": "Gabon",
+    "official": "Gabonese Republic",
+    "nativeName": {
+      "fra": {
+        "official": "République gabonaise",
+        "name": "Gabon"
+      }
+    }
+  },
+  {
+    "name": "Chad",
+    "official": "Republic of Chad",
+    "nativeName": {
+      "ara": {
+        "official": "جمهورية تشاد",
+        "name": "تشاد‎"
+      },
+      "fra": {
+        "official": "République du Tchad",
+        "name": "Tchad"
+      }
+    }
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "official": "Territory of the Cocos (Keeling) Islands",
+    "nativeName": {
+      "eng": {
+        "official": "Territory of the Cocos (Keeling) Islands",
+        "name": "Cocos (Keeling) Islands"
+      }
+    }
+  },
+  {
+    "name": "Kazakhstan",
+    "official": "Republic of Kazakhstan",
+    "nativeName": {
+      "kaz": {
+        "official": "Қазақстан Республикасы",
+        "name": "Қазақстан"
+      },
+      "rus": {
+        "official": "Республика Казахстан",
+        "name": "Казахстан"
+      }
+    }
+  },
+  {
+    "name": "Pitcairn Islands",
+    "official": "Pitcairn Group of Islands",
+    "nativeName": {
+      "eng": {
+        "official": "Pitcairn Group of Islands",
+        "name": "Pitcairn Islands"
+      }
+    }
+  },
+  {
+    "name": "Guadeloupe",
+    "official": "Guadeloupe",
+    "nativeName": {
+      "fra": {
+        "official": "Guadeloupe",
+        "name": "Guadeloupe"
+      }
+    }
+  },
+  {
+    "name": "Sudan",
+    "official": "Republic of the Sudan",
+    "nativeName": {
+      "ara": {
+        "official": "جمهورية السودان",
+        "name": "السودان"
+      },
+      "eng": {
+        "official": "Republic of the Sudan",
+        "name": "Sudan"
+      }
+    }
+  },
+  {
+    "name": "Dominica",
+    "official": "namewealth of Dominica",
+    "nativeName": {
+      "eng": {
+        "official": "namewealth of Dominica",
+        "name": "Dominica"
+      }
+    }
+  },
+  {
+    "name": "Qatar",
+    "official": "State of Qatar",
+    "nativeName": {
+      "ara": {
+        "official": "دولة قطر",
+        "name": "قطر"
+      }
+    }
+  },
+  {
+    "name": "Barbados",
+    "official": "Barbados",
+    "nativeName": {
+      "eng": {
+        "official": "Barbados",
+        "name": "Barbados"
+      }
+    }
+  },
+  {
+    "name": "Turkey",
+    "official": "Republic of Turkey",
+    "nativeName": {
+      "tur": {
+        "official": "Türkiye Cumhuriyeti",
+        "name": "Türkiye"
+      }
+    }
+  },
+  {
+    "name": "Denmark",
+    "official": "Kingdom of Denmark",
+    "nativeName": {
+      "dan": {
+        "official": "Kongeriget Danmark",
+        "name": "Danmark"
+      }
+    }
+  },
+  {
+    "name": "Marshall Islands",
+    "official": "Republic of the Marshall Islands",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of the Marshall Islands",
+        "name": "Marshall Islands"
+      },
+      "mah": {
+        "official": "Republic of the Marshall Islands",
+        "name": "M̧ajeļ"
+      }
+    }
+  },
+  {
+    "name": "Yemen",
+    "official": "Republic of Yemen",
+    "nativeName": {
+      "ara": {
+        "official": "الجمهورية اليمنية",
+        "name": "اليَمَن"
+      }
+    }
+  },
+  {
+    "name": "Antarctica",
+    "official": "Antarctica"
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "official": "Democratic Republic of São Tomé and Príncipe",
+    "nativeName": {
+      "por": {
+        "official": "República Democrática do São Tomé e Príncipe",
+        "name": "São Tomé e Príncipe"
+      }
+    }
+  },
+  {
+    "name": "Turkmenistan",
+    "official": "Turkmenistan",
+    "nativeName": {
+      "rus": {
+        "official": "Туркменистан",
+        "name": "Туркмения"
+      },
+      "tuk": {
+        "official": "Türkmenistan",
+        "name": "Türkmenistan"
+      }
+    }
+  },
+  {
+    "name": "North Korea",
+    "official": "Democratic People's Republic of Korea",
+    "nativeName": {
+      "kor": {
+        "official": "조선민주주의인민공화국",
+        "name": "조선"
+      }
+    }
+  },
+  {
+    "name": "Portugal",
+    "official": "Portuguese Republic",
+    "nativeName": {
+      "por": {
+        "official": "República português",
+        "name": "Portugal"
+      }
+    }
+  },
+  {
+    "name": "Eritrea",
+    "official": "State of Eritrea",
+    "nativeName": {
+      "ara": {
+        "official": "دولة إرتريا",
+        "name": "إرتريا‎"
+      },
+      "eng": {
+        "official": "State of Eritrea",
+        "name": "Eritrea"
+      },
+      "tir": {
+        "official": "ሃገረ ኤርትራ",
+        "name": "ኤርትራ"
+      }
+    }
+  },
+  {
+    "name": "Gibraltar",
+    "official": "Gibraltar",
+    "nativeName": {
+      "eng": {
+        "official": "Gibraltar",
+        "name": "Gibraltar"
+      }
+    }
+  },
+  {
+    "name": "Mongolia",
+    "official": "Mongolia",
+    "nativeName": {
+      "mon": {
+        "official": "Монгол улс",
+        "name": "Монгол улс"
+      }
+    }
+  },
+  {
+    "name": "Kosovo",
+    "official": "Republic of Kosovo",
+    "nativeName": {
+      "sqi": {
+        "official": "Republika e Kosovës",
+        "name": "Kosova"
+      },
+      "srp": {
+        "official": "Република Косово",
+        "name": "Косово"
+      }
+    }
+  },
+  {
+    "name": "Anguilla",
+    "official": "Anguilla",
+    "nativeName": {
+      "eng": {
+        "official": "Anguilla",
+        "name": "Anguilla"
+      }
+    }
+  },
+  {
+    "name": "Malawi",
+    "official": "Republic of Malawi",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of Malawi",
+        "name": "Malawi"
+      },
+      "nya": {
+        "official": "Chalo cha Malawi, Dziko la Malaŵi",
+        "name": "Malaŵi"
+      }
+    }
+  },
+  {
+    "name": "Tuvalu",
+    "official": "Tuvalu",
+    "nativeName": {
+      "eng": {
+        "official": "Tuvalu",
+        "name": "Tuvalu"
+      },
+      "tvl": {
+        "official": "Tuvalu",
+        "name": "Tuvalu"
+      }
+    }
+  },
+  {
+    "name": "Moldova",
+    "official": "Republic of Moldova",
+    "nativeName": {
+      "ron": {
+        "official": "Republica Moldova",
+        "name": "Moldova"
+      }
+    }
+  },
+  {
+    "name": "Brunei",
+    "official": "Nation of Brunei, Abode of Peace",
+    "nativeName": {
+      "msa": {
+        "official": "Nation of Brunei, Abode Damai",
+        "name": "Negara Brunei Darussalam"
+      }
+    }
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "official": "United States Minor Outlying Islands",
+    "nativeName": {
+      "eng": {
+        "official": "United States Minor Outlying Islands",
+        "name": "United States Minor Outlying Islands"
+      }
+    }
+  },
+  {
+    "name": "Finland",
+    "official": "Republic of Finland",
+    "nativeName": {
+      "fin": {
+        "official": "Suomen tasavalta",
+        "name": "Suomi"
+      },
+      "swe": {
+        "official": "Republiken Finland",
+        "name": "Finland"
+      }
+    }
+  },
+  {
+    "name": "Ghana",
+    "official": "Republic of Ghana",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of Ghana",
+        "name": "Ghana"
+      }
+    }
+  },
+  {
+    "name": "Dominican Republic",
+    "official": "Dominican Republic",
+    "nativeName": {
+      "spa": {
+        "official": "República Dominicana",
+        "name": "República Dominicana"
+      }
+    }
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "official": "namewealth of the Northern Mariana Islands",
+    "nativeName": {
+      "cal": {
+        "official": "namewealth of the Northern Mariana Islands",
+        "name": "Northern Mariana Islands"
+      },
+      "cha": {
+        "official": "Sankattan Siha Na Islas Mariånas",
+        "name": "Na Islas Mariånas"
+      },
+      "eng": {
+        "official": "namewealth of the Northern Mariana Islands",
+        "name": "Northern Mariana Islands"
+      }
+    }
+  },
+  {
+    "name": "Czechia",
+    "official": "Czech Republic",
+    "nativeName": {
+      "ces": {
+        "official": "Česká republika",
+        "name": "Česko"
+      },
+      "slk": {
+        "official": "Česká republika",
+        "name": "Česko"
+      }
+    }
+  },
+  {
+    "name": "Morocco",
+    "official": "Kingdom of Morocco",
+    "nativeName": {
+      "ara": {
+        "official": "المملكة المغربية",
+        "name": "المغرب"
+      },
+      "ber": {
+        "official": "ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ",
+        "name": "ⵍⵎⴰⵖⵔⵉⴱ"
+      }
+    }
+  },
+  {
+    "name": "Honduras",
+    "official": "Republic of Honduras",
+    "nativeName": {
+      "spa": {
+        "official": "República de Honduras",
+        "name": "Honduras"
+      }
+    }
+  },
+  {
+    "name": "Israel",
+    "official": "State of Israel",
+    "nativeName": {
+      "ara": {
+        "official": "دولة إسرائيل",
+        "name": "إسرائيل"
+      },
+      "heb": {
+        "official": "מדינת ישראל",
+        "name": "ישראל"
+      }
+    }
+  },
+  {
+    "name": "Madagascar",
+    "official": "Republic of Madagascar",
+    "nativeName": {
+      "fra": {
+        "official": "République de Madagascar",
+        "name": "Madagascar"
+      },
+      "mlg": {
+        "official": "Repoblikan'i Madagasikara",
+        "name": "Madagasikara"
+      }
+    }
+  },
+  {
+    "name": "Luxembourg",
+    "official": "Grand Duchy of Luxembourg",
+    "nativeName": {
+      "deu": {
+        "official": "Großherzogtum Luxemburg",
+        "name": "Luxemburg"
+      },
+      "fra": {
+        "official": "Grand-Duché de Luxembourg",
+        "name": "Luxembourg"
+      },
+      "ltz": {
+        "official": "Groussherzogtum Lëtzebuerg",
+        "name": "Lëtzebuerg"
+      }
+    }
+  },
+  {
+    "name": "Armenia",
+    "official": "Republic of Armenia",
+    "nativeName": {
+      "hye": {
+        "official": "Հայաստանի Հանրապետություն",
+        "name": "Հայաստան"
+      }
+    }
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "official": "Turks and Caicos Islands",
+    "nativeName": {
+      "eng": {
+        "official": "Turks and Caicos Islands",
+        "name": "Turks and Caicos Islands"
+      }
+    }
+  },
+  {
+    "name": "Falkland Islands",
+    "official": "Falkland Islands",
+    "nativeName": {
+      "eng": {
+        "official": "Falkland Islands",
+        "name": "Falkland Islands"
+      }
+    }
+  },
+  {
+    "name": "Angola",
+    "official": "Republic of Angola",
+    "nativeName": {
+      "por": {
+        "official": "República de Angola",
+        "name": "Angola"
+      }
+    }
+  },
+  {
+    "name": "Cyprus",
+    "official": "Republic of Cyprus",
+    "nativeName": {
+      "ell": {
+        "official": "Δημοκρατία της Κύπρος",
+        "name": "Κύπρος"
+      },
+      "tur": {
+        "official": "Kıbrıs Cumhuriyeti",
+        "name": "Kıbrıs"
+      }
+    }
+  },
+  {
+    "name": "Indonesia",
+    "official": "Republic of Indonesia",
+    "nativeName": {
+      "ind": {
+        "official": "Republik Indonesia",
+        "name": "Indonesia"
+      }
+    }
+  },
+  {
+    "name": "Uzbekistan",
+    "official": "Republic of Uzbekistan",
+    "nativeName": {
+      "rus": {
+        "official": "Республика Узбекистан",
+        "name": "Узбекистан"
+      },
+      "uzb": {
+        "official": "O'zbekiston Respublikasi",
+        "name": "O‘zbekiston"
+      }
+    }
+  },
+  {
+    "name": "Burundi",
+    "official": "Republic of Burundi",
+    "nativeName": {
+      "fra": {
+        "official": "République du Burundi",
+        "name": "Burundi"
+      },
+      "run": {
+        "official": "Republika y'Uburundi ",
+        "name": "Uburundi"
+      }
+    }
+  },
+  {
+    "name": "Albania",
+    "official": "Republic of Albania",
+    "nativeName": {
+      "sqi": {
+        "official": "Republika e Shqipërisë",
+        "name": "Shqipëria"
+      }
+    }
+  },
+  {
+    "name": "Saint Barthélemy",
+    "official": "Collectivity of Saint Barthélemy",
+    "nativeName": {
+      "fra": {
+        "official": "Collectivité de Saint-Barthélemy",
+        "name": "Saint-Barthélemy"
+      }
+    }
+  },
+  {
+    "name": "Bolivia",
+    "official": "Plurinational State of Bolivia",
+    "nativeName": {
+      "aym": {
+        "official": "Wuliwya Suyu",
+        "name": "Wuliwya"
+      },
+      "grn": {
+        "official": "Tetã Volívia",
+        "name": "Volívia"
+      },
+      "que": {
+        "official": "Buliwya Mamallaqta",
+        "name": "Buliwya"
+      },
+      "spa": {
+        "official": "Estado Plurinacional de Bolivia",
+        "name": "Bolivia"
+      }
+    }
+  },
+  {
+    "name": "Kyrgyzstan",
+    "official": "Kyrgyz Republic",
+    "nativeName": {
+      "kir": {
+        "official": "Кыргыз Республикасы",
+        "name": "Кыргызстан"
+      },
+      "rus": {
+        "official": "Кыргызская Республика",
+        "name": "Киргизия"
+      }
+    }
+  },
+  {
+    "name": "United Arab Emirates",
+    "official": "United Arab Emirates",
+    "nativeName": {
+      "ara": {
+        "official": "الإمارات العربية المتحدة",
+        "name": "دولة الإمارات العربية المتحدة"
+      }
+    }
+  },
+  {
+    "name": "Paraguay",
+    "official": "Republic of Paraguay",
+    "nativeName": {
+      "grn": {
+        "official": "Tetã Paraguái",
+        "name": "Paraguái"
+      },
+      "spa": {
+        "official": "República de Paraguay",
+        "name": "Paraguay"
+      }
+    }
+  },
+  {
+    "name": "Tanzania",
+    "official": "United Republic of Tanzania",
+    "nativeName": {
+      "eng": {
+        "official": "United Republic of Tanzania",
+        "name": "Tanzania"
+      },
+      "swa": {
+        "official": "Jamhuri ya Muungano wa Tanzania",
+        "name": "Tanzania"
+      }
+    }
+  },
+  {
+    "name": "Argentina",
+    "official": "Argentine Republic",
+    "nativeName": {
+      "grn": {
+        "official": "Argentine Republic",
+        "name": "Argentina"
+      },
+      "spa": {
+        "official": "República Argentina",
+        "name": "Argentina"
+      }
+    }
+  },
+  {
+    "name": "Pakistan",
+    "official": "Islamic Republic of Pakistan",
+    "nativeName": {
+      "eng": {
+        "official": "Islamic Republic of Pakistan",
+        "name": "Pakistan"
+      },
+      "urd": {
+        "official": "اسلامی جمہوریۂ پاكستان",
+        "name": "پاكستان"
+      }
+    }
+  },
+  {
+    "name": "Nepal",
+    "official": "Federal Democratic Republic of Nepal",
+    "nativeName": {
+      "nep": {
+        "official": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र",
+        "name": "नेपाल"
+      }
+    }
+  },
+  {
+    "name": "New Zealand",
+    "official": "New Zealand",
+    "nativeName": {
+      "eng": {
+        "official": "New Zealand",
+        "name": "New Zealand"
+      },
+      "mri": {
+        "official": "Aotearoa",
+        "name": "Aotearoa"
+      },
+      "nzs": {
+        "official": "New Zealand",
+        "name": "New Zealand"
+      }
+    }
+  },
+  {
+    "name": "Switzerland",
+    "official": "Swiss Confederation",
+    "nativeName": {
+      "fra": {
+        "official": "Confédération suisse",
+        "name": "Suisse"
+      },
+      "gsw": {
+        "official": "Schweizerische Eidgenossenschaft",
+        "name": "Schweiz"
+      },
+      "ita": {
+        "official": "Confederazione Svizzera",
+        "name": "Svizzera"
+      },
+      "roh": {
+        "official": "Confederaziun svizra",
+        "name": "Svizra"
+      }
+    }
+  },
+  {
+    "name": "Norfolk Island",
+    "official": "Territory of Norfolk Island",
+    "nativeName": {
+      "eng": {
+        "official": "Territory of Norfolk Island",
+        "name": "Norfolk Island"
+      },
+      "pih": {
+        "official": "Teratri of Norf'k Ailen",
+        "name": "Norf'k Ailen"
+      }
+    }
+  },
+  {
+    "name": "Sweden",
+    "official": "Kingdom of Sweden",
+    "nativeName": {
+      "swe": {
+        "official": "Konungariket Sverige",
+        "name": "Sverige"
+      }
+    }
+  },
+  {
+    "name": "Saint Lucia",
+    "official": "Saint Lucia",
+    "nativeName": {
+      "eng": {
+        "official": "Saint Lucia",
+        "name": "Saint Lucia"
+      }
+    }
+  },
+  {
+    "name": "Uruguay",
+    "official": "Oriental Republic of Uruguay",
+    "nativeName": {
+      "spa": {
+        "official": "República Oriental del Uruguay",
+        "name": "Uruguay"
+      }
+    }
+  },
+  {
+    "name": "Mexico",
+    "official": "United Mexican States",
+    "nativeName": {
+      "spa": {
+        "official": "Estados Unidos Mexicanos",
+        "name": "México"
+      }
+    }
+  },
+  {
+    "name": "Somalia",
+    "official": "Federal Republic of Somalia",
+    "nativeName": {
+      "ara": {
+        "official": "جمهورية الصومال‎‎",
+        "name": "الصومال‎‎"
+      },
+      "som": {
+        "official": "Jamhuuriyadda Federaalka Soomaaliya",
+        "name": "Soomaaliya"
+      }
+    }
+  },
+  {
+    "name": "Montserrat",
+    "official": "Montserrat",
+    "nativeName": {
+      "eng": {
+        "official": "Montserrat",
+        "name": "Montserrat"
+      }
+    }
+  },
+  {
+    "name": "Norway",
+    "official": "Kingdom of Norway",
+    "nativeName": {
+      "nno": {
+        "official": "Kongeriket Noreg",
+        "name": "Noreg"
+      },
+      "nob": {
+        "official": "Kongeriket Norge",
+        "name": "Norge"
+      },
+      "smi": {
+        "official": "Norgga gonagasriika",
+        "name": "Norgga"
+      }
+    }
+  },
+  {
+    "name": "Seychelles",
+    "official": "Republic of Seychelles",
+    "nativeName": {
+      "crs": {
+        "official": "Repiblik Sesel",
+        "name": "Sesel"
+      },
+      "eng": {
+        "official": "Republic of Seychelles",
+        "name": "Seychelles"
+      },
+      "fra": {
+        "official": "République des Seychelles",
+        "name": "Seychelles"
+      }
+    }
+  },
+  {
+    "name": "Nauru",
+    "official": "Republic of Nauru",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of Nauru",
+        "name": "Nauru"
+      },
+      "nau": {
+        "official": "Republic of Nauru",
+        "name": "Nauru"
+      }
+    }
+  },
+  {
+    "name": "Bhutan",
+    "official": "Kingdom of Bhutan",
+    "nativeName": {
+      "dzo": {
+        "official": "འབྲུག་རྒྱལ་ཁབ་",
+        "name": "འབྲུག་ཡུལ་"
+      }
+    }
+  },
+  {
+    "name": "Rwanda",
+    "official": "Republic of Rwanda",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of Rwanda",
+        "name": "Rwanda"
+      },
+      "fra": {
+        "official": "République rwandaise",
+        "name": "Rwanda"
+      },
+      "kin": {
+        "official": "Repubulika y'u Rwanda",
+        "name": "Rwanda"
+      }
+    }
+  },
+  {
+    "name": "Hungary",
+    "official": "Hungary",
+    "nativeName": {
+      "hun": {
+        "official": "Magyarország",
+        "name": "Magyarország"
+      }
+    }
+  },
+  {
+    "name": "Slovenia",
+    "official": "Republic of Slovenia",
+    "nativeName": {
+      "slv": {
+        "official": "Republika Slovenija",
+        "name": "Slovenija"
+      }
+    }
+  },
+  {
+    "name": "Sint Maarten",
+    "official": "Sint Maarten",
+    "nativeName": {
+      "eng": {
+        "official": "Sint Maarten",
+        "name": "Sint Maarten"
+      },
+      "fra": {
+        "official": "Saint-Martin",
+        "name": "Saint-Martin"
+      },
+      "nld": {
+        "official": "Sint Maarten",
+        "name": "Sint Maarten"
+      }
+    }
+  },
+  {
+    "name": "India",
+    "official": "Republic of India",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of India",
+        "name": "India"
+      },
+      "hin": {
+        "official": "भारत गणराज्य",
+        "name": "भारत"
+      },
+      "tam": {
+        "official": "இந்தியக் குடியரசு",
+        "name": "இந்தியா"
+      }
+    }
+  },
+  {
+    "name": "French Guiana",
+    "official": "Guiana",
+    "nativeName": {
+      "fra": {
+        "official": "Guyane",
+        "name": "Guyane française"
+      }
+    }
+  },
+  {
+    "name": "Italy",
+    "official": "Italian Republic",
+    "nativeName": {
+      "ita": {
+        "official": "Repubblica italiana",
+        "name": "Italia"
+      }
+    }
+  },
+  {
+    "name": "Singapore",
+    "official": "Republic of Singapore",
+    "nativeName": {
+      "zho": {
+        "official": "新加坡共和国",
+        "name": "新加坡"
+      },
+      "eng": {
+        "official": "Republic of Singapore",
+        "name": "Singapore"
+      },
+      "msa": {
+        "official": "Republik Singapura",
+        "name": "Singapura"
+      },
+      "tam": {
+        "official": "சிங்கப்பூர் குடியரசு",
+        "name": "சிங்கப்பூர்"
+      }
+    }
+  },
+  {
+    "name": "Ireland",
+    "official": "Republic of Ireland",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of Ireland",
+        "name": "Ireland"
+      },
+      "gle": {
+        "official": "Poblacht na hÉireann",
+        "name": "Éire"
+      }
+    }
+  },
+  {
+    "name": "Andorra",
+    "official": "Principality of Andorra",
+    "nativeName": {
+      "cat": {
+        "official": "Principat d'Andorra",
+        "name": "Andorra"
+      }
+    }
+  },
+  {
+    "name": "Iceland",
+    "official": "Iceland",
+    "nativeName": {
+      "isl": {
+        "official": "Ísland",
+        "name": "Ísland"
+      }
+    }
+  },
+  {
+    "name": "Micronesia",
+    "official": "Federated States of Micronesia",
+    "nativeName": {
+      "eng": {
+        "official": "Federated States of Micronesia",
+        "name": "Micronesia"
+      }
+    }
+  },
+  {
+    "name": "Faroe Islands",
+    "official": "Faroe Islands",
+    "nativeName": {
+      "dan": {
+        "official": "Færøerne",
+        "name": "Færøerne"
+      },
+      "fao": {
+        "official": "Føroyar",
+        "name": "Føroyar"
+      }
+    }
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "official": "Federation of Saint Christopher and Nevis",
+    "nativeName": {
+      "eng": {
+        "official": "Federation of Saint Christopher and Nevis",
+        "name": "Saint Kitts and Nevis"
+      }
+    }
+  },
+  {
+    "name": "Niger",
+    "official": "Republic of Niger",
+    "nativeName": {
+      "fra": {
+        "official": "République du Niger",
+        "name": "Niger"
+      }
+    }
+  },
+  {
+    "name": "France",
+    "official": "French Republic",
+    "nativeName": {
+      "fra": {
+        "official": "République française",
+        "name": "France"
+      }
+    }
+  },
+  {
+    "name": "Djibouti",
+    "official": "Republic of Djibouti",
+    "nativeName": {
+      "ara": {
+        "official": "جمهورية جيبوتي",
+        "name": "جيبوتي‎"
+      },
+      "fra": {
+        "official": "République de Djibouti",
+        "name": "Djibouti"
+      }
+    }
+  },
+  {
+    "name": "Liberia",
+    "official": "Republic of Liberia",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of Liberia",
+        "name": "Liberia"
+      }
+    }
+  },
+  {
+    "name": "Taiwan",
+    "official": "Republic of China (Taiwan)",
+    "nativeName": {
+      "zho": {
+        "official": "中華民國",
+        "name": "台灣"
+      }
+    }
+  },
+  {
+    "name": "Jordan",
+    "official": "Hashemite Kingdom of Jordan",
+    "nativeName": {
+      "ara": {
+        "official": "المملكة الأردنية الهاشمية",
+        "name": "الأردن"
+      }
+    }
+  },
+  {
+    "name": "Greenland",
+    "official": "Greenland",
+    "nativeName": {
+      "kal": {
+        "official": "Kalaallit Nunaat",
+        "name": "Kalaallit Nunaat"
+      }
+    }
+  },
+  {
+    "name": "Libya",
+    "official": "State of Libya",
+    "nativeName": {
+      "ara": {
+        "official": "الدولة ليبيا",
+        "name": "‏ليبيا"
+      }
+    }
+  },
+  {
+    "name": "Kiribati",
+    "official": "Independent and Sovereign Republic of Kiribati",
+    "nativeName": {
+      "eng": {
+        "official": "Independent and Sovereign Republic of Kiribati",
+        "name": "Kiribati"
+      },
+      "gil": {
+        "official": "Ribaberiki Kiribati",
+        "name": "Kiribati"
+      }
+    }
+  },
+  {
+    "name": "Cook Islands",
+    "official": "Cook Islands",
+    "nativeName": {
+      "eng": {
+        "official": "Cook Islands",
+        "name": "Cook Islands"
+      },
+      "rar": {
+        "official": "Kūki 'Āirani",
+        "name": "Kūki 'Āirani"
+      }
+    }
+  },
+  {
+    "name": "Lesotho",
+    "official": "Kingdom of Lesotho",
+    "nativeName": {
+      "eng": {
+        "official": "Kingdom of Lesotho",
+        "name": "Lesotho"
+      },
+      "sot": {
+        "official": "Kingdom of Lesotho",
+        "name": "Lesotho"
+      }
+    }
+  },
+  {
+    "name": "Monaco",
+    "official": "Principality of Monaco",
+    "nativeName": {
+      "fra": {
+        "official": "Principauté de Monaco",
+        "name": "Monaco"
+      }
+    }
+  },
+  {
+    "name": "Malaysia",
+    "official": "Malaysia",
+    "nativeName": {
+      "eng": {
+        "official": "Malaysia",
+        "name": "Malaysia"
+      },
+      "msa": {
+        "official": "مليسيا",
+        "name": "مليسيا"
+      }
+    }
+  },
+  {
+    "name": "Wallis and Futuna",
+    "official": "Territory of the Wallis and Futuna Islands",
+    "nativeName": {
+      "fra": {
+        "official": "Territoire des îles Wallis et Futuna",
+        "name": "Wallis et Futuna"
+      }
+    }
+  },
+  {
+    "name": "Saudi Arabia",
+    "official": "Kingdom of Saudi Arabia",
+    "nativeName": {
+      "ara": {
+        "official": "المملكة العربية السعودية",
+        "name": "العربية السعودية"
+      }
+    }
+  },
+  {
+    "name": "Bulgaria",
+    "official": "Republic of Bulgaria",
+    "nativeName": {
+      "bul": {
+        "official": "Република България",
+        "name": "България"
+      }
+    }
+  },
+  {
+    "name": "Burkina Faso",
+    "official": "Burkina Faso",
+    "nativeName": {
+      "fra": {
+        "official": "République du Burkina",
+        "name": "Burkina Faso"
+      }
+    }
+  },
+  {
+    "name": "Brazil",
+    "official": "Federative Republic of Brazil",
+    "nativeName": {
+      "por": {
+        "official": "República Federativa do Brasil",
+        "name": "Brasil"
+      }
+    }
+  },
+  {
+    "name": "Lithuania",
+    "official": "Republic of Lithuania",
+    "nativeName": {
+      "lit": {
+        "official": "Lietuvos Respublikos",
+        "name": "Lietuva"
+      }
+    }
+  },
+  {
+    "name": "Jersey",
+    "official": "Bailiwick of Jersey",
+    "nativeName": {
+      "eng": {
+        "official": "Bailiwick of Jersey",
+        "name": "Jersey"
+      },
+      "fra": {
+        "official": "Bailliage de Jersey",
+        "name": "Jersey"
+      },
+      "nrf": {
+        "official": "Bailliage dé Jèrri",
+        "name": "Jèrri"
+      }
+    }
+  },
+  {
+    "name": "Algeria",
+    "official": "People's Democratic Republic of Algeria",
+    "nativeName": {
+      "ara": {
+        "official": "الجمهورية الديمقراطية الشعبية الجزائرية",
+        "name": "الجزائر"
+      }
+    }
+  },
+  {
+    "name": "Solomon Islands",
+    "official": "Solomon Islands",
+    "nativeName": {
+      "eng": {
+        "official": "Solomon Islands",
+        "name": "Solomon Islands"
+      }
+    }
+  },
+  {
+    "name": "Sri Lanka",
+    "official": "Democratic Socialist Republic of Sri Lanka",
+    "nativeName": {
+      "sin": {
+        "official": "ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය",
+        "name": "ශ්‍රී ලංකාව"
+      },
+      "tam": {
+        "official": "இலங்கை சனநாயக சோசலிசக் குடியரசு",
+        "name": "இலங்கை"
+      }
+    }
+  },
+  {
+    "name": "San Marino",
+    "official": "Republic of San Marino",
+    "nativeName": {
+      "ita": {
+        "official": "Repubblica di San Marino",
+        "name": "San Marino"
+      }
+    }
+  },
+  {
+    "name": "United Kingdom",
+    "official": "United Kingdom of Great Britain and Northern Ireland",
+    "nativeName": {
+      "eng": {
+        "official": "United Kingdom of Great Britain and Northern Ireland",
+        "name": "United Kingdom"
+      }
+    }
+  },
+  {
+    "name": "Nigeria",
+    "official": "Federal Republic of Nigeria",
+    "nativeName": {
+      "eng": {
+        "official": "Federal Republic of Nigeria",
+        "name": "Nigeria"
+      }
+    }
+  },
+  {
+    "name": "Slovakia",
+    "official": "Slovak Republic",
+    "nativeName": {
+      "slk": {
+        "official": "Slovenská republika",
+        "name": "Slovensko"
+      }
+    }
+  },
+  {
+    "name": "Cameroon",
+    "official": "Republic of Cameroon",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of Cameroon",
+        "name": "Cameroon"
+      },
+      "fra": {
+        "official": "République du Cameroun",
+        "name": "Cameroun"
+      }
+    }
+  },
+  {
+    "name": "Namibia",
+    "official": "Republic of Namibia",
+    "nativeName": {
+      "afr": {
+        "official": "Republiek van Namibië",
+        "name": "Namibië"
+      },
+      "deu": {
+        "official": "Republik Namibia",
+        "name": "Namibia"
+      },
+      "eng": {
+        "official": "Republic of Namibia",
+        "name": "Namibia"
+      },
+      "her": {
+        "official": "Republic of Namibia",
+        "name": "Namibia"
+      },
+      "hgm": {
+        "official": "Republic of Namibia",
+        "name": "Namibia"
+      },
+      "kwn": {
+        "official": "Republic of Namibia",
+        "name": "Namibia"
+      },
+      "loz": {
+        "official": "Republic of Namibia",
+        "name": "Namibia"
+      },
+      "ndo": {
+        "official": "Republic of Namibia",
+        "name": "Namibia"
+      },
+      "tsn": {
+        "official": "Lefatshe la Namibia",
+        "name": "Namibia"
+      }
+    }
+  },
+  {
+    "name": "Egypt",
+    "official": "Arab Republic of Egypt",
+    "nativeName": {
+      "ara": {
+        "official": "جمهورية مصر العربية",
+        "name": "مصر"
+      }
+    }
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "official": "Saint Vincent and the Grenadines",
+    "nativeName": {
+      "eng": {
+        "official": "Saint Vincent and the Grenadines",
+        "name": "Saint Vincent and the Grenadines"
+      }
+    }
+  },
+  {
+    "name": "Belarus",
+    "official": "Republic of Belarus",
+    "nativeName": {
+      "bel": {
+        "official": "Рэспубліка Беларусь",
+        "name": "Белару́сь"
+      },
+      "rus": {
+        "official": "Республика Беларусь",
+        "name": "Беларусь"
+      }
+    }
+  },
+  {
+    "name": "Ukraine",
+    "official": "Ukraine",
+    "nativeName": {
+      "ukr": {
+        "official": "Україна",
+        "name": "Україна"
+      }
+    }
+  },
+  {
+    "name": "Christmas Island",
+    "official": "Territory of Christmas Island",
+    "nativeName": {
+      "eng": {
+        "official": "Territory of Christmas Island",
+        "name": "Christmas Island"
+      }
+    }
+  },
+  {
+    "name": "Niue",
+    "official": "Niue",
+    "nativeName": {
+      "eng": {
+        "official": "Niue",
+        "name": "Niue"
+      },
+      "niu": {
+        "official": "Niuē",
+        "name": "Niuē"
+      }
+    }
+  },
+  {
+    "name": "Jamaica",
+    "official": "Jamaica",
+    "nativeName": {
+      "eng": {
+        "official": "Jamaica",
+        "name": "Jamaica"
+      },
+      "jam": {
+        "official": "Jamaica",
+        "name": "Jamaica"
+      }
+    }
+  },
+  {
+    "name": "Zambia",
+    "official": "Republic of Zambia",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of Zambia",
+        "name": "Zambia"
+      }
+    }
+  },
+  {
+    "name": "Senegal",
+    "official": "Republic of Senegal",
+    "nativeName": {
+      "fra": {
+        "official": "République du Sénégal",
+        "name": "Sénégal"
+      }
+    }
+  },
+  {
+    "name": "Belgium",
+    "official": "Kingdom of Belgium",
+    "nativeName": {
+      "deu": {
+        "official": "Königreich Belgien",
+        "name": "Belgien"
+      },
+      "fra": {
+        "official": "Royaume de Belgique",
+        "name": "Belgique"
+      },
+      "nld": {
+        "official": "Koninkrijk België",
+        "name": "België"
+      }
+    }
+  },
+  {
+    "name": "Central African Republic",
+    "official": "Central African Republic",
+    "nativeName": {
+      "fra": {
+        "official": "République centrafricaine",
+        "name": "République centrafricaine"
+      },
+      "sag": {
+        "official": "Ködörösêse tî Bêafrîka",
+        "name": "Bêafrîka"
+      }
+    }
+  },
+  {
+    "name": "Iran",
+    "official": "Islamic Republic of Iran",
+    "nativeName": {
+      "fas": {
+        "official": "جمهوری اسلامی ایران",
+        "name": "ایران"
+      }
+    }
+  },
+  {
+    "name": "Iraq",
+    "official": "Republic of Iraq",
+    "nativeName": {
+      "ara": {
+        "official": "جمهورية العراق",
+        "name": "العراق"
+      },
+      "arc": {
+        "official": "ܩܘܼܛܢܵܐ ܐܝܼܪܲܩ",
+        "name": "ܩܘܼܛܢܵܐ"
+      },
+      "ckb": {
+        "official": "کۆماری عێراق",
+        "name": "کۆماری"
+      }
+    }
+  },
+  {
+    "name": "Timor-Leste",
+    "official": "Democratic Republic of Timor-Leste",
+    "nativeName": {
+      "por": {
+        "official": "República Democrática de Timor-Leste",
+        "name": "Timor-Leste"
+      },
+      "tet": {
+        "official": "Repúblika Demokrátika Timór-Leste",
+        "name": "Timór-Leste"
+      }
+    }
+  },
+  {
+    "name": "Isle of Man",
+    "official": "Isle of Man",
+    "nativeName": {
+      "eng": {
+        "official": "Isle of Man",
+        "name": "Isle of Man"
+      },
+      "glv": {
+        "official": "Ellan Vannin or Mannin",
+        "name": "Mannin"
+      }
+    }
+  },
+  {
+    "name": "Macau",
+    "official": "Macao Special Administrative Region of the People's Republic of China",
+    "nativeName": {
+      "por": {
+        "official": "Região Administrativa Especial de Macau da República Popular da China",
+        "name": "Macau"
+      },
+      "zho": {
+        "official": "中华人民共和国澳门特别行政区",
+        "name": "澳门"
+      }
+    }
+  },
+  {
+    "name": "El Salvador",
+    "official": "Republic of El Salvador",
+    "nativeName": {
+      "spa": {
+        "official": "República de El Salvador",
+        "name": "El Salvador"
+      }
+    }
+  },
+  {
+    "name": "Malta",
+    "official": "Republic of Malta",
+    "nativeName": {
+      "eng": {
+        "official": "Republic of Malta",
+        "name": "Malta"
+      },
+      "mlt": {
+        "official": "Repubblika ta ' Malta",
+        "name": "Malta"
+      }
+    }
+  },
+  {
+    "name": "Poland",
+    "official": "Republic of Poland",
+    "nativeName": {
+      "pol": {
+        "official": "Rzeczpospolita Polska",
+        "name": "Polska"
+      }
+    }
+  },
+  {
+    "name": "Serbia",
+    "official": "Republic of Serbia",
+    "nativeName": {
+      "srp": {
+        "official": "Република Србија",
+        "name": "Србија"
+      }
+    }
+  },
+  {
+    "name": "Ivory Coast",
+    "official": "Republic of Côte d'Ivoire",
+    "nativeName": {
+      "fra": {
+        "official": "République de Côte d'Ivoire",
+        "name": "Côte d'Ivoire"
+      }
+    }
+  },
+  {
+    "name": "Western Sahara",
+    "official": "Sahrawi Arab Democratic Republic",
+    "nativeName": {
+      "ber": {
+        "official": "Sahrawi Arab Democratic Republic",
+        "name": "Western Sahara"
+      },
+      "mey": {
+        "official": "الجمهورية العربية الصحراوية الديمقراطية",
+        "name": "الصحراء الغربية"
+      },
+      "spa": {
+        "official": "República Árabe Saharaui Democrática",
+        "name": "Sahara Occidental"
+      }
+    }
+  },
+  {
+    "name": "DR Congo",
+    "official": "Democratic Republic of the Congo",
+    "nativeName": {
+      "fra": {
+        "official": "République démocratique du Congo",
+        "name": "RD Congo"
+      },
+      "kon": {
+        "official": "Repubilika ya Kongo Demokratiki",
+        "name": "Repubilika ya Kongo Demokratiki"
+      },
+      "lin": {
+        "official": "Republiki ya Kongó Demokratiki",
+        "name": "Republiki ya Kongó Demokratiki"
+      },
+      "lua": {
+        "official": "Ditunga dia Kongu wa Mungalaata",
+        "name": "Ditunga dia Kongu wa Mungalaata"
+      },
+      "swa": {
+        "official": "Jamhuri ya Kidemokrasia ya Kongo",
+        "name": "Jamhuri ya Kidemokrasia ya Kongo"
+      }
+    }
+  },
+  {
+    "name": "Tajikistan",
+    "official": "Republic of Tajikistan",
+    "nativeName": {
+      "rus": {
+        "official": "Республика Таджикистан",
+        "name": "Таджикистан"
+      },
+      "tgk": {
+        "official": "Ҷумҳурии Тоҷикистон",
+        "name": "Тоҷикистон"
+      }
+    }
+  },
+  {
+    "name": "Vanuatu",
+    "official": "Republic of Vanuatu",
+    "nativeName": {
+      "bis": {
+        "official": "Ripablik blong Vanuatu",
+        "name": "Vanuatu"
+      },
+      "eng": {
+        "official": "Republic of Vanuatu",
+        "name": "Vanuatu"
+      },
+      "fra": {
+        "official": "République de Vanuatu",
+        "name": "Vanuatu"
+      }
+    }
+  },
+  {
+    "name": "Tokelau",
+    "official": "Tokelau",
+    "nativeName": {
+      "eng": {
+        "official": "Tokelau",
+        "name": "Tokelau"
+      },
+      "smo": {
+        "official": "Tokelau",
+        "name": "Tokelau"
+      },
+      "tkl": {
+        "official": "Tokelau",
+        "name": "Tokelau"
+      }
+    }
+  },
+  {
+    "name": "British Virgin Islands",
+    "official": "Virgin Islands",
+    "nativeName": {
+      "eng": {
+        "official": "Virgin Islands",
+        "name": "British Virgin Islands"
+      }
+    }
+  }
+]
+}
